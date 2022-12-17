@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Martinez von Halle</h1>
-<h3 align="center">I'm a Full-Stack Developer. I have worked in the IT field for 43 years. Currently looking for new opportunities.</h3>
+<h3 align="center">I'm a Full-Stack Developer. <br>I have worked in the IT field for 43 years. <br>Currently looking for new opportunities.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivanmvh" alt="ivanmvh" /></a> </p>
 
