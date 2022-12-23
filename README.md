@@ -7,10 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://ivanmvh.github.io/Portfolio-Ivan-Martinez-Microverse-Project/](https://ivanmvh.github.io/Portfolio-Ivan-Martinez-Microverse-Project/)
 
-- 💬 Ask me about **html, css, javaScript, jest, webpack, mysql, cobol, foxpro**
-
-- 📫 How to reach me **ivanmvh@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imprivado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imprivado" height="30" width="40" /></a>
